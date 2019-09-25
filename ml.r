@@ -12,5 +12,5 @@ store_data <- function(){
     }
 
 run_ml_pipline <- function(){
-
+    #aquí va toda la función
     }
