@@ -1,4 +1,4 @@
-load_data <- function(){
+load_data <- function(x){ load (x)
 
     }
 
