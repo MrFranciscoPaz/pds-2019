@@ -1,5 +1,5 @@
-load_data <- function(x){ load (x)
-
+load_data <- function(x){ 
+              load (x)
     }
 
 clean_data <- function(){
